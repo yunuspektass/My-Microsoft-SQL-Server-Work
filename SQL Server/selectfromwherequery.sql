@@ -1,0 +1,1 @@
+SELECT * FROM Ogrenci WHERE DogumTarihi < '20040101'

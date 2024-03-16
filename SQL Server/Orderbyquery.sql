@@ -1,0 +1,1 @@
+SELECT * FROM Ogrenci ORDER BY ErkekMi DESC,Ad DESC
